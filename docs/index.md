@@ -2,12 +2,12 @@
 permalink: index
 ---
 
-# Polyfusion
+# Sample site for group projects
 
-	Just a little test for the site
+Just a little site example
 
 ## AR content
 
-	As they are updated you can find links to examples of the different types of AR.
+As they are updated you can find links to examples of the different types of AR.
 
-First, navigate to an example of using a JavaScript button to open the AR content we looked at today
+1. First, navigate to an example of using a `JavaScript` button to open the `AR` content we looked at [today](website/pages/index-1.html)
