@@ -2,7 +2,7 @@
 permalink: index
 ---
 
-# Sample site for group projects
+# Polyfusion
 
 Just a little site example
 
